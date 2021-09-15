@@ -34,6 +34,14 @@ Curious what I've been hacking on recently?
 - [s3: replication storage class STANDARD was missing](https://github.com/crossplane/provider-aws/pull/764) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (2 months ago)
 - [s3: resolve bucket ARN in replication config references](https://github.com/crossplane/provider-aws/pull/763) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (2 months ago)
 
+#### 👯 Check out some of my recent followers
+
+- [staticaland](https://github.com/staticaland)
+- [luojiyin1987](https://github.com/luojiyin1987)
+- [jlpettersson](https://github.com/jlpettersson)
+- [VinodAnandan](https://github.com/VinodAnandan)
+- [elsbrock](https://github.com/elsbrock)
+
 #### 📫 How to reach me
 
 - Mail: chlunde -at- gmail.com
