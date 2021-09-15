@@ -28,7 +28,7 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{.Repo.Stargazers}} stargazers)
-{{end}}
+{{- end}}
 
 #### 📫 How to reach me
 
