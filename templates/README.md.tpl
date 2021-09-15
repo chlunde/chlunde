@@ -25,6 +25,11 @@ Curious what I've been hacking on recently?
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
+#### 🌟 Recent Stars
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{.Repo.Stargazers}} stargazers)
+{{end}}
+
 #### 📫 How to reach me
 
 - Mail: chlunde -at- gmail.com
