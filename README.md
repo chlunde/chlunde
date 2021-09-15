@@ -42,6 +42,19 @@ Curious what I've been hacking on recently?
 - [VinodAnandan](https://github.com/VinodAnandan)
 - [elsbrock](https://github.com/elsbrock)
 
+#### 🌟 Recent Stars
+
+- [ibuildthecloud/finalizers](https://github.com/ibuildthecloud/finalizers) - Stupid Finalizers (91 stargazers)
+
+- [cashapp/hermit](https://github.com/cashapp/hermit) - Hermit manages isolated, self-bootstrapping sets of tools in software projects. (103 stargazers)
+
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (944 stargazers)
+
+- [vfarcic/gatekeeper-vs-kyverno-demo](https://github.com/vfarcic/gatekeeper-vs-kyverno-demo) -  (2 stargazers)
+
+- [thomasfricke/training-kubernetes-security](https://github.com/thomasfricke/training-kubernetes-security) -  (38 stargazers)
+
+
 #### 📫 How to reach me
 
 - Mail: chlunde -at- gmail.com
