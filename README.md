@@ -7,9 +7,9 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (today)
-- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane Amazon Web Services (AWS) infrastructure provider. (2 days ago)
-- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (5 days ago)
+- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (1 day ago)
+- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane Amazon Web Services (AWS) infrastructure provider. (3 days ago)
+- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (6 days ago)
 - [chlunde/eks-iam-cache](https://github.com/chlunde/eks-iam-cache) - kubectl cache for EKS (2 weeks ago)
 - [chlunde/aws-sso-profiles](https://github.com/chlunde/aws-sso-profiles) -  (2 weeks ago)
 
@@ -23,8 +23,8 @@ Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [elasticache.cacheparametergroup: Add resource](https://github.com/crossplane/provider-aws/pull/834) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (today)
-- [rdsinstance: Use ResourceLateInitialized from crossplane-runtime](https://github.com/crossplane/provider-aws/pull/833) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (today)
+- [elasticache.cacheparametergroup: Add resource](https://github.com/crossplane/provider-aws/pull/834) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (1 day ago)
+- [rdsinstance: Use ResourceLateInitialized from crossplane-runtime](https://github.com/crossplane/provider-aws/pull/833) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (1 day ago)
 - [rds.rdsinstance: Add storage autoscaling (MaxAllocatedStorage)](https://github.com/crossplane/provider-aws/pull/794) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (1 month ago)
 - [iam.iamrole: Use improved policy comparision function](https://github.com/crossplane/provider-aws/pull/793) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (1 month ago)
 - [Fix company name for chlunde](https://github.com/cncf/gitdm/pull/721) on [cncf/gitdm](https://github.com/cncf/gitdm) (1 month ago)
