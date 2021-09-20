@@ -7,8 +7,8 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane Amazon Web Services (AWS) infrastructure provider. (today)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (5 days ago)
-- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane Amazon Web Services (AWS) infrastructure provider. (1 week ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 week ago)
 - [chlunde/eks-iam-cache](https://github.com/chlunde/eks-iam-cache) - kubectl cache for EKS (2 weeks ago)
 - [chlunde/aws-sso-profiles](https://github.com/chlunde/aws-sso-profiles) -  (2 weeks ago)
