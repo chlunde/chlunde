@@ -7,11 +7,11 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (today)
-- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (5 days ago)
+- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (1 day ago)
+- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (6 days ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 week ago)
-- [chlunde/eks-iam-cache](https://github.com/chlunde/eks-iam-cache) - kubectl cache for EKS (2 weeks ago)
-- [chlunde/aws-sso-profiles](https://github.com/chlunde/aws-sso-profiles) -  (2 weeks ago)
+- [chlunde/eks-iam-cache](https://github.com/chlunde/eks-iam-cache) - kubectl cache for EKS (3 weeks ago)
+- [chlunde/aws-sso-profiles](https://github.com/chlunde/aws-sso-profiles) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -23,8 +23,8 @@ Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [elasticache.cacheparametergroup: Add resource](https://github.com/crossplane/provider-aws/pull/834) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (5 days ago)
-- [rdsinstance: Use ResourceLateInitialized from crossplane-runtime](https://github.com/crossplane/provider-aws/pull/833) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (5 days ago)
+- [elasticache.cacheparametergroup: Add resource](https://github.com/crossplane/provider-aws/pull/834) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (6 days ago)
+- [rdsinstance: Use ResourceLateInitialized from crossplane-runtime](https://github.com/crossplane/provider-aws/pull/833) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (6 days ago)
 - [rds.rdsinstance: Add storage autoscaling (MaxAllocatedStorage)](https://github.com/crossplane/provider-aws/pull/794) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (1 month ago)
 - [iam.iamrole: Use improved policy comparision function](https://github.com/crossplane/provider-aws/pull/793) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (1 month ago)
 - [Fix company name for chlunde](https://github.com/cncf/gitdm/pull/721) on [cncf/gitdm](https://github.com/cncf/gitdm) (1 month ago)
@@ -46,7 +46,7 @@ Curious what I've been hacking on recently?
 
 - [ibuildthecloud/finalizers](https://github.com/ibuildthecloud/finalizers) - Stupid Finalizers (91 stargazers)
 - [cashapp/hermit](https://github.com/cashapp/hermit) - Hermit manages isolated, self-bootstrapping sets of tools in software projects. (104 stargazers)
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (957 stargazers)
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (958 stargazers)
 - [vfarcic/gatekeeper-vs-kyverno-demo](https://github.com/vfarcic/gatekeeper-vs-kyverno-demo) -  (2 stargazers)
 - [thomasfricke/training-kubernetes-security](https://github.com/thomasfricke/training-kubernetes-security) -  (39 stargazers)
 
