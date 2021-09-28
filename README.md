@@ -44,10 +44,10 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (1309 stargazers)
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (1311 stargazers)
 - [ibuildthecloud/finalizers](https://github.com/ibuildthecloud/finalizers) - Stupid Finalizers (91 stargazers)
 - [cashapp/hermit](https://github.com/cashapp/hermit) - Hermit manages isolated, self-bootstrapping sets of tools in software projects. (107 stargazers)
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (1015 stargazers)
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (1016 stargazers)
 - [vfarcic/gatekeeper-vs-kyverno-demo](https://github.com/vfarcic/gatekeeper-vs-kyverno-demo) -  (2 stargazers)
 
 #### 📫 How to reach me
