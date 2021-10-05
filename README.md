@@ -23,6 +23,7 @@ Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [elasticache: Scale replicationgroup shards](https://github.com/crossplane/provider-aws/pull/860) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (today)
 - [elasticache.cacheparametergroup: Add resource](https://github.com/crossplane/provider-aws/pull/834) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (2 weeks ago)
 - [rdsinstance: Use ResourceLateInitialized from crossplane-runtime](https://github.com/crossplane/provider-aws/pull/833) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (2 weeks ago)
 - [rds.rdsinstance: Add storage autoscaling (MaxAllocatedStorage)](https://github.com/crossplane/provider-aws/pull/794) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (1 month ago)
@@ -32,7 +33,6 @@ Curious what I've been hacking on recently?
 - [Remove loops from GetWrapperOutputShape](https://github.com/aws-controllers-k8s/code-generator/pull/145) on [aws-controllers-k8s/code-generator](https://github.com/aws-controllers-k8s/code-generator) (2 months ago)
 - [s3: fix deleteMarkerReplication.Status -&gt; deleteMarkerReplication.status](https://github.com/crossplane/provider-aws/pull/766) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (3 months ago)
 - [s3: replication configuration - allow user to drop Filter similar AWS documentation](https://github.com/crossplane/provider-aws/pull/765) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (3 months ago)
-- [s3: replication storage class STANDARD was missing](https://github.com/crossplane/provider-aws/pull/764) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
