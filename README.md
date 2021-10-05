@@ -7,7 +7,7 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (today)
+- [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (1 day ago)
 - [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (2 weeks ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (2 weeks ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (3 weeks ago)
@@ -30,9 +30,9 @@ Curious what I've been hacking on recently?
 - [Fix company name for chlunde](https://github.com/cncf/gitdm/pull/721) on [cncf/gitdm](https://github.com/cncf/gitdm) (2 months ago)
 - [Allow user control over pod labels using controllerconfig](https://github.com/crossplane/crossplane/pull/2455) on [crossplane/crossplane](https://github.com/crossplane/crossplane) (2 months ago)
 - [Remove loops from GetWrapperOutputShape](https://github.com/aws-controllers-k8s/code-generator/pull/145) on [aws-controllers-k8s/code-generator](https://github.com/aws-controllers-k8s/code-generator) (2 months ago)
-- [s3: fix deleteMarkerReplication.Status -&gt; deleteMarkerReplication.status](https://github.com/crossplane/provider-aws/pull/766) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (2 months ago)
-- [s3: replication configuration - allow user to drop Filter similar AWS documentation](https://github.com/crossplane/provider-aws/pull/765) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (2 months ago)
-- [s3: replication storage class STANDARD was missing](https://github.com/crossplane/provider-aws/pull/764) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (2 months ago)
+- [s3: fix deleteMarkerReplication.Status -&gt; deleteMarkerReplication.status](https://github.com/crossplane/provider-aws/pull/766) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (3 months ago)
+- [s3: replication configuration - allow user to drop Filter similar AWS documentation](https://github.com/crossplane/provider-aws/pull/765) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (3 months ago)
+- [s3: replication storage class STANDARD was missing](https://github.com/crossplane/provider-aws/pull/764) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
