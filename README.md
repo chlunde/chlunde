@@ -47,7 +47,7 @@ Curious what I've been hacking on recently?
 - [mbarkhau/asciigrid](https://github.com/mbarkhau/asciigrid) - A WYSIWYG Editor for ASCII Diagrams (4 stargazers)
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow (2179 stargazers)
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG (2976 stargazers)
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (1334 stargazers)
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (1335 stargazers)
 - [ibuildthecloud/finalizers](https://github.com/ibuildthecloud/finalizers) - Stupid Finalizers (91 stargazers)
 
 #### 📫 How to reach me
