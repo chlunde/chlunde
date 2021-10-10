@@ -7,10 +7,10 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (4 days ago)
-- [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (5 days ago)
+- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (5 days ago)
+- [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (6 days ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (3 weeks ago)
-- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (4 weeks ago)
+- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 month ago)
 - [chlunde/eks-iam-cache](https://github.com/chlunde/eks-iam-cache) - kubectl cache for EKS (1 month ago)
 
 #### 🌱 My latest projects
@@ -23,7 +23,7 @@ Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [elasticache: Scale replicationgroup shards](https://github.com/crossplane/provider-aws/pull/860) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (4 days ago)
+- [elasticache: Scale replicationgroup shards](https://github.com/crossplane/provider-aws/pull/860) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (5 days ago)
 - [elasticache.cacheparametergroup: Add resource](https://github.com/crossplane/provider-aws/pull/834) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (3 weeks ago)
 - [rdsinstance: Use ResourceLateInitialized from crossplane-runtime](https://github.com/crossplane/provider-aws/pull/833) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (3 weeks ago)
 - [rds.rdsinstance: Add storage autoscaling (MaxAllocatedStorage)](https://github.com/crossplane/provider-aws/pull/794) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (2 months ago)
@@ -46,7 +46,7 @@ Curious what I've been hacking on recently?
 
 - [mbarkhau/asciigrid](https://github.com/mbarkhau/asciigrid) - A WYSIWYG Editor for ASCII Diagrams (4 stargazers)
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow (2180 stargazers)
-- [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG (2976 stargazers)
+- [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG (2975 stargazers)
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (1337 stargazers)
 - [ibuildthecloud/finalizers](https://github.com/ibuildthecloud/finalizers) - Stupid Finalizers (91 stargazers)
 
