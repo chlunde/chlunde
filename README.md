@@ -44,7 +44,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability. (1153 stargazers)
+- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability. (1156 stargazers)
 - [mbarkhau/asciigrid](https://github.com/mbarkhau/asciigrid) - A WYSIWYG Editor for ASCII Diagrams (4 stargazers)
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow (2184 stargazers)
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG (2976 stargazers)
