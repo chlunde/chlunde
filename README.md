@@ -7,7 +7,7 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (6 days ago)
+- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (1 week ago)
 - [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (1 week ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (3 weeks ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 month ago)
@@ -23,7 +23,7 @@ Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [elasticache: Scale replicationgroup shards](https://github.com/crossplane/provider-aws/pull/860) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (6 days ago)
+- [elasticache: Scale replicationgroup shards](https://github.com/crossplane/provider-aws/pull/860) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (1 week ago)
 - [elasticache.cacheparametergroup: Add resource](https://github.com/crossplane/provider-aws/pull/834) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (3 weeks ago)
 - [rdsinstance: Use ResourceLateInitialized from crossplane-runtime](https://github.com/crossplane/provider-aws/pull/833) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (3 weeks ago)
 - [rds.rdsinstance: Add storage autoscaling (MaxAllocatedStorage)](https://github.com/crossplane/provider-aws/pull/794) on [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (2 months ago)
@@ -44,7 +44,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability. (1161 stargazers)
+- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability. (1162 stargazers)
 - [mbarkhau/asciigrid](https://github.com/mbarkhau/asciigrid) - A WYSIWYG Editor for ASCII Diagrams (4 stargazers)
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow (2184 stargazers)
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG (2976 stargazers)
