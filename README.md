@@ -7,11 +7,11 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Proof of concept / demo (today)
 - [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (today)
 - [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (1 week ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (4 weeks ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 month ago)
-- [chlunde/eks-iam-cache](https://github.com/chlunde/eks-iam-cache) - kubectl cache for EKS (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -47,7 +47,7 @@ Curious what I've been hacking on recently?
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability. (1224 stargazers)
 - [mbarkhau/asciigrid](https://github.com/mbarkhau/asciigrid) - A WYSIWYG Editor for ASCII Diagrams (4 stargazers)
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow (2193 stargazers)
-- [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG (2978 stargazers)
+- [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG (2979 stargazers)
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (1342 stargazers)
 
 #### 📫 How to reach me
