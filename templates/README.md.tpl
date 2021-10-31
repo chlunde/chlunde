@@ -15,10 +15,12 @@ Curious what I've been hacking on recently?
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
+{{/* 
 #### 🔨 Latest Pull Requests I published
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+ */}}
 
 #### 👯 Check out some of my recent followers
 {{range followers 5}}
