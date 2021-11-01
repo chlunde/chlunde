@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (18528 stargazers)
 - [sindrebroch/ha-flexit](https://github.com/sindrebroch/ha-flexit) - Custom HomeAssistant-integration for controlling Flexit ventilation unit. (8 stargazers)
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - Helm charts for applications you run at home (795 stargazers)
-- [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes (3412 stargazers)
+- [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes (3413 stargazers)
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability. (1431 stargazers)
 
 #### 📫 How to reach me
