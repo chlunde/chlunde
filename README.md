@@ -7,10 +7,10 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (1 day ago)
+- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (2 days ago)
 - [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Proof of concept / demo (2 weeks ago)
 - [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (2 weeks ago)
-- [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (3 weeks ago)
+- [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (4 weeks ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 month ago)
 
 #### 🌱 My latest projects
@@ -34,7 +34,7 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 
 - [sindrebroch/ha-flexit](https://github.com/sindrebroch/ha-flexit) - Custom HomeAssistant-integration for controlling Flexit ventilation unit. (8 stargazers)
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - Helm charts for applications you run at home (790 stargazers)
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - Helm charts for applications you run at home (791 stargazers)
 - [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes (3401 stargazers)
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability. (1424 stargazers)
 - [mbarkhau/asciigrid](https://github.com/mbarkhau/asciigrid) - A WYSIWYG Editor for ASCII Diagrams (4 stargazers)
