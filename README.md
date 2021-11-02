@@ -7,8 +7,8 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (today)
-- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (2 days ago)
+- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 day ago)
+- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (3 days ago)
 - [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Proof of concept / demo (2 weeks ago)
 - [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (2 weeks ago)
 - [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (4 weeks ago)
@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (18528 stargazers)
 - [sindrebroch/ha-flexit](https://github.com/sindrebroch/ha-flexit) - Custom HomeAssistant-integration for controlling Flexit ventilation unit. (8 stargazers)
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - Helm charts for applications you run at home (795 stargazers)
-- [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes (3413 stargazers)
+- [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes (3414 stargazers)
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability. (1431 stargazers)
 
 #### 📫 How to reach me
