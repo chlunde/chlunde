@@ -7,8 +7,8 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (today)
-- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (5 days ago)
+- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 day ago)
+- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (6 days ago)
 - [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Proof of concept / demo (3 weeks ago)
 - [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (3 weeks ago)
 - [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (1 month ago)
