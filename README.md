@@ -7,8 +7,8 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (today)
-- [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (today)
+- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (1 day ago)
+- [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (1 day ago)
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (2 weeks ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (3 weeks ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (3 weeks ago)
@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [knative-sandbox/container-freezer](https://github.com/knative-sandbox/container-freezer) - Idle containers when not handling requests. (4 stargazers)
 - [csantanapr/knative-pi](https://github.com/csantanapr/knative-pi) - Run Knative on Raspberry Pi in 5 minutes (20 stargazers)
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (183 stargazers)
-- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (18664 stargazers)
+- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (18665 stargazers)
 - [sindrebroch/ha-flexit](https://github.com/sindrebroch/ha-flexit) - Custom HomeAssistant-integration for controlling Flexit ventilation unit. (10 stargazers)
 
 #### 📫 How to reach me
