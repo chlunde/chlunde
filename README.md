@@ -9,9 +9,9 @@ Curious what I've been hacking on recently?
 
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (1 week ago)
 - [chlunde/3dp](https://github.com/chlunde/3dp) -  (1 week ago)
-- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (1 week ago)
-- [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (1 week ago)
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (3 weeks ago)
+- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (2 weeks ago)
+- [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (2 weeks ago)
+- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [lyz-code/yamlfix](https://github.com/lyz-code/yamlfix) - A simple opinionated yaml formatter that keeps your comments! (20 stargazers)
 - [knative-sandbox/container-freezer](https://github.com/knative-sandbox/container-freezer) - Idle containers when not handling requests. (4 stargazers)
 - [csantanapr/knative-pi](https://github.com/csantanapr/knative-pi) - Run Knative on Raspberry Pi in 5 minutes (20 stargazers)
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (191 stargazers)
+- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (192 stargazers)
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (18735 stargazers)
 
 #### 📫 How to reach me
