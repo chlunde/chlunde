@@ -11,7 +11,7 @@ Curious what I've been hacking on recently?
 - [chlunde/3dp](https://github.com/chlunde/3dp) -  (1 week ago)
 - [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (2 weeks ago)
 - [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (2 weeks ago)
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (4 weeks ago)
+- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (1 month ago)
 
 #### 🌱 My latest projects
 
