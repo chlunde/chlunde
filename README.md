@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [lyz-code/yamlfix](https://github.com/lyz-code/yamlfix) - A simple opinionated yaml formatter that keeps your comments! (20 stargazers)
 - [knative-sandbox/container-freezer](https://github.com/knative-sandbox/container-freezer) - Idle containers when not handling requests. (4 stargazers)
 - [csantanapr/knative-pi](https://github.com/csantanapr/knative-pi) - Run Knative on Raspberry Pi in 5 minutes (20 stargazers)
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (194 stargazers)
+- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (195 stargazers)
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (18797 stargazers)
 
 #### 📫 How to reach me
