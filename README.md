@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (4429 stargazers)
+- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (4430 stargazers)
 - [zombiezen/postgrestest](https://github.com/zombiezen/postgrestest) - A Go test harness that starts an ephemeral PostgreSQL server (33 stargazers)
 - [lyz-code/yamlfix](https://github.com/lyz-code/yamlfix) - A simple opinionated yaml formatter that keeps your comments! (20 stargazers)
 - [knative-sandbox/container-freezer](https://github.com/knative-sandbox/container-freezer) - Idle containers when not handling requests. (5 stargazers)
