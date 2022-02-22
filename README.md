@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (9731 stargazers)
+- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (9732 stargazers)
 - [estuary/flow](https://github.com/estuary/flow) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊  (138 stargazers)
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (4592 stargazers)
 - [zombiezen/postgrestest](https://github.com/zombiezen/postgrestest) - A Go test harness that starts an ephemeral PostgreSQL server (34 stargazers)
