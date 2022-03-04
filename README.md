@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (1996 stargazers)
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (9779 stargazers)
 - [estuary/flow](https://github.com/estuary/flow) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊  (140 stargazers)
-- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (4617 stargazers)
+- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (4618 stargazers)
 - [zombiezen/postgrestest](https://github.com/zombiezen/postgrestest) - A Go test harness that starts an ephemeral PostgreSQL server (34 stargazers)
 
 #### 📫 How to reach me
