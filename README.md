@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (1998 stargazers)
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (1999 stargazers)
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (9782 stargazers)
 - [estuary/flow](https://github.com/estuary/flow) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊  (140 stargazers)
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (4618 stargazers)
