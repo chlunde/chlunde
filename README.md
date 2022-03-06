@@ -34,9 +34,9 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 
 - [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A customizable, interactive table component for the Bubble Tea framework (66 stargazers)
-- [osresearch/hcpy](https://github.com/osresearch/hcpy) - Python tool to talk to Home Connect appliances over the local network (no cloud required) (65 stargazers)
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (2003 stargazers)
-- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (9785 stargazers)
+- [osresearch/hcpy](https://github.com/osresearch/hcpy) - Python tool to talk to Home Connect appliances over the local network (no cloud required) (66 stargazers)
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (2004 stargazers)
+- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (9786 stargazers)
 - [estuary/flow](https://github.com/estuary/flow) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊  (140 stargazers)
 
 #### 📫 How to reach me
