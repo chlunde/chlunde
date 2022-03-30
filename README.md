@@ -7,7 +7,7 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (2 weeks ago)
+- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (3 weeks ago)
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments) (1 month ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (3 months ago)
 - [chlunde/3dp](https://github.com/chlunde/3dp) -  (4 months ago)
@@ -37,7 +37,7 @@ Curious what I've been hacking on recently?
 - [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A customizable, interactive table component for the Bubble Tea framework (113 stargazers)
 - [osresearch/hcpy](https://github.com/osresearch/hcpy) - Python tool to talk to Home Connect appliances over the local network (no cloud required) (71 stargazers)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (2098 stargazers)
-- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (9896 stargazers)
+- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (9897 stargazers)
 
 #### 📫 How to reach me
 
