@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [whywaita/actions-cache-s3](https://github.com/whywaita/actions-cache-s3) - Cache dependencies and build outputs in GitHub Actions (support S3 backend for @actions/cache) (4 stargazers)
 - [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A customizable, interactive table component for the Bubble Tea framework (125 stargazers)
 - [osresearch/hcpy](https://github.com/osresearch/hcpy) - Python tool to talk to Home Connect appliances over the local network (no cloud required) (71 stargazers)
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (2252 stargazers)
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (2253 stargazers)
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (10008 stargazers)
 
 #### 📫 How to reach me
