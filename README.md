@@ -37,7 +37,7 @@ Curious what I've been hacking on recently?
 - [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A customizable, interactive table component for the Bubble Tea framework (125 stargazers)
 - [osresearch/hcpy](https://github.com/osresearch/hcpy) - Python tool to talk to Home Connect appliances over the local network (no cloud required) (75 stargazers)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (2287 stargazers)
-- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (10044 stargazers)
+- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (10045 stargazers)
 
 #### 📫 How to reach me
 
