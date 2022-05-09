@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [rubenv/pgtest](https://github.com/rubenv/pgtest) - PostgreSQL test helper for Go (27 stargazers)
 - [whywaita/actions-cache-s3](https://github.com/whywaita/actions-cache-s3) - Cache dependencies and build outputs in GitHub Actions (support S3 backend for @actions/cache) (6 stargazers)
 - [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A customizable, interactive table component for the Bubble Tea framework (133 stargazers)
-- [osresearch/hcpy](https://github.com/osresearch/hcpy) - Python tool to talk to Home Connect appliances over the local network (no cloud required) (76 stargazers)
+- [osresearch/hcpy](https://github.com/osresearch/hcpy) - Python tool to talk to Home Connect appliances over the local network (no cloud required) (77 stargazers)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (2350 stargazers)
 
 #### 📫 How to reach me
