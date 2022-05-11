@@ -7,7 +7,7 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Proof of concept / demo (1 day ago)
+- [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Proof of concept / demo (2 days ago)
 - [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (1 week ago)
 - [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (2 months ago)
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments) (3 months ago)
