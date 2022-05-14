@@ -7,7 +7,7 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Proof of concept / demo (4 days ago)
+- [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Proof of concept / demo (5 days ago)
 - [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (2 weeks ago)
 - [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (2 months ago)
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments) (3 months ago)
@@ -37,7 +37,7 @@ Curious what I've been hacking on recently?
 - [whywaita/actions-cache-s3](https://github.com/whywaita/actions-cache-s3) - Cache dependencies and build outputs in GitHub Actions (support S3 backend for @actions/cache) (6 stargazers)
 - [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A customizable, interactive table component for the Bubble Tea framework (136 stargazers)
 - [osresearch/hcpy](https://github.com/osresearch/hcpy) - Python tool to talk to Home Connect appliances over the local network (no cloud required) (77 stargazers)
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (2372 stargazers)
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (2373 stargazers)
 
 #### 📫 How to reach me
 
