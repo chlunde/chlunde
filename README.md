@@ -7,10 +7,10 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (today)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (2 days ago)
 - [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Proof of concept / demo (2 weeks ago)
 - [crossplane-contrib/provider-bitbucket-server](https://github.com/crossplane-contrib/provider-bitbucket-server) - A Crossplane Provider for Bitbucket Server (3 weeks ago)
-- [crossplane/provider-aws](https://github.com/crossplane/provider-aws) - Crossplane AWS Provider (2 months ago)
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments) (3 months ago)
 
 #### 🌱 My latest projects
@@ -33,11 +33,11 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
+- [luebken/awesome-crossplane-providers](https://github.com/luebken/awesome-crossplane-providers) -  (8 stargazers)
+- [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the GitOps Working Group which are versioned and released together (including the GitOps Principles and Glossary) (216 stargazers)
 - [rubenv/pgtest](https://github.com/rubenv/pgtest) - PostgreSQL test helper for Go (27 stargazers)
 - [whywaita/actions-cache-s3](https://github.com/whywaita/actions-cache-s3) - Cache dependencies and build outputs in GitHub Actions (support S3 backend for @actions/cache) (6 stargazers)
 - [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A customizable, interactive table component for the Bubble Tea framework (143 stargazers)
-- [osresearch/hcpy](https://github.com/osresearch/hcpy) - Python tool to talk to Home Connect appliances over the local network (no cloud required) (77 stargazers)
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (2420 stargazers)
 
 #### 📫 How to reach me
 
