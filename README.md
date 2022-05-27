@@ -25,11 +25,11 @@ Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [muvaf](https://github.com/muvaf)
 - [olesu](https://github.com/olesu)
 - [negz](https://github.com/negz)
 - [staticaland](https://github.com/staticaland)
 - [luojiyin1987](https://github.com/luojiyin1987)
-- [jlpettersson](https://github.com/jlpettersson)
 
 #### 🌟 Recent Stars
 
