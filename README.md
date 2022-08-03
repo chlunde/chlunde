@@ -33,11 +33,11 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (7331 stargazers)
 - [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations (2168 stargazers)
 - [luebken/awesome-crossplane-providers](https://github.com/luebken/awesome-crossplane-providers) -  (13 stargazers)
 - [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the GitOps Working Group which are versioned and released together (including the GitOps Principles and Glossary) (235 stargazers)
 - [rubenv/pgtest](https://github.com/rubenv/pgtest) - PostgreSQL test helper for Go (28 stargazers)
-- [whywaita/actions-cache-s3](https://github.com/whywaita/actions-cache-s3) - Cache dependencies and build outputs in GitHub Actions (support S3 backend for @actions/cache) (8 stargazers)
 
 #### 📫 How to reach me
 
