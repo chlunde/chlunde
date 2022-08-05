@@ -7,7 +7,7 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (2 days ago)
+- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (today)
 - [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Proof of concept / demo (3 days ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (5 days ago)
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (2 months ago)
@@ -34,7 +34,7 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor (10914 stargazers)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (7998 stargazers)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (8046 stargazers)
 - [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations (2174 stargazers)
 - [luebken/awesome-crossplane-providers](https://github.com/luebken/awesome-crossplane-providers) -  (13 stargazers)
 - [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the GitOps Working Group which are versioned and released together (including the GitOps Principles and Glossary) (236 stargazers)
