@@ -25,17 +25,17 @@ Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [Jody7](https://github.com/Jody7)
 - [muvaf](https://github.com/muvaf)
 - [olesu](https://github.com/olesu)
 - [negz](https://github.com/negz)
 - [staticaland](https://github.com/staticaland)
-- [luojiyin1987](https://github.com/luojiyin1987)
 
 #### 🌟 Recent Stars
 
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (2227 stargazers)
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor (10951 stargazers)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (9095 stargazers)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (9097 stargazers)
 - [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations (2177 stargazers)
 - [luebken/awesome-crossplane-providers](https://github.com/luebken/awesome-crossplane-providers) -  (13 stargazers)
 
