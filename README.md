@@ -11,7 +11,7 @@ Curious what I've been hacking on recently?
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 week ago)
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (1 week ago)
 - [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Proof of concept / demo (1 week ago)
-- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (1 week ago)
+- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (2 weeks ago)
 
 #### 🌱 My latest projects
 
