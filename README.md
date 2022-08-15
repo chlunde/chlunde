@@ -35,7 +35,7 @@ Curious what I've been hacking on recently?
 
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (2231 stargazers)
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor (10970 stargazers)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (9276 stargazers)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (9278 stargazers)
 - [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations (2181 stargazers)
 - [luebken/awesome-crossplane-providers](https://github.com/luebken/awesome-crossplane-providers) -  (13 stargazers)
 
