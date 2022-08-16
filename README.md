@@ -10,7 +10,7 @@ Curious what I've been hacking on recently?
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (1 week ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 week ago)
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (1 week ago)
-- [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Proof of concept / demo (1 week ago)
+- [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Proof of concept / demo (2 weeks ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -35,7 +35,7 @@ Curious what I've been hacking on recently?
 
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (2232 stargazers)
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor (10972 stargazers)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (9302 stargazers)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (9303 stargazers)
 - [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations (2181 stargazers)
 - [luebken/awesome-crossplane-providers](https://github.com/luebken/awesome-crossplane-providers) -  (13 stargazers)
 
