@@ -26,17 +26,17 @@ Curious what I've been hacking on recently?
 #### 👯 Check out some of my recent followers
 
 - [jpoley](https://github.com/jpoley)
-- [Jody7](https://github.com/Jody7)
 - [muvaf](https://github.com/muvaf)
 - [olesu](https://github.com/olesu)
 - [negz](https://github.com/negz)
+- [staticaland](https://github.com/staticaland)
 
 #### 🌟 Recent Stars
 
 - [99designs/aws-ecr-gc](https://github.com/99designs/aws-ecr-gc) - Garbage collector for Amazon ECR docker registry (47 stargazers)
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (2234 stargazers)
-- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor (10983 stargazers)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (9394 stargazers)
+- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor (10984 stargazers)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (9398 stargazers)
 - [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations (2183 stargazers)
 
 #### 📫 How to reach me
