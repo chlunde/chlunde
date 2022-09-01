@@ -35,7 +35,7 @@ Curious what I've been hacking on recently?
 
 - [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (106 stargazers)
 - [99designs/aws-ecr-gc](https://github.com/99designs/aws-ecr-gc) - Garbage collector for Amazon ECR docker registry (47 stargazers)
-- [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (2244 stargazers)
+- [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (2245 stargazers)
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor (11036 stargazers)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (9930 stargazers)
 
