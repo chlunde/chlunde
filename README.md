@@ -7,7 +7,7 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Proof of concept / demo (today)
+- [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Use humio as a backend for storing traces for jaeger (today)
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (1 week ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 week ago)
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (1 month ago)
@@ -37,7 +37,7 @@ Curious what I've been hacking on recently?
 - [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (106 stargazers)
 - [99designs/aws-ecr-gc](https://github.com/99designs/aws-ecr-gc) - Garbage collector for Amazon ECR docker registry (47 stargazers)
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (2246 stargazers)
-- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor (11040 stargazers)
+- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor (11041 stargazers)
 
 #### 📫 How to reach me
 
