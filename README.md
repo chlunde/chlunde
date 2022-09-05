@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [crossplane-contrib/provider-kubernetes](https://github.com/crossplane-contrib/provider-kubernetes) - Crossplane provider to provision and manage Kubernetes objects on (remote) Kubernetes clusters. (56 stargazers)
 - [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (106 stargazers)
 - [99designs/aws-ecr-gc](https://github.com/99designs/aws-ecr-gc) - Garbage collector for Amazon ECR docker registry (47 stargazers)
-- [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (2246 stargazers)
+- [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (2247 stargazers)
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor (11046 stargazers)
 
 #### 📫 How to reach me
