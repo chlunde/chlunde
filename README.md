@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark (7431 stargazers)
+- [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark (7432 stargazers)
 - [cognitedata/txid-syncing](https://github.com/cognitedata/txid-syncing) - Demo of continuous syncing based on txids (3 stargazers)
 - [crossplane-contrib/provider-kubernetes](https://github.com/crossplane-contrib/provider-kubernetes) - Crossplane provider to provision and manage Kubernetes objects on (remote) Kubernetes clusters. (56 stargazers)
 - [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (106 stargazers)
