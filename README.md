@@ -33,11 +33,11 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
+- [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark (7430 stargazers)
 - [cognitedata/txid-syncing](https://github.com/cognitedata/txid-syncing) - Demo of continuous syncing based on txids (3 stargazers)
 - [crossplane-contrib/provider-kubernetes](https://github.com/crossplane-contrib/provider-kubernetes) - Crossplane provider to provision and manage Kubernetes objects on (remote) Kubernetes clusters. (56 stargazers)
 - [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (106 stargazers)
 - [99designs/aws-ecr-gc](https://github.com/99designs/aws-ecr-gc) - Garbage collector for Amazon ECR docker registry (47 stargazers)
-- [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (2253 stargazers)
 
 #### 📫 How to reach me
 
