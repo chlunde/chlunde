@@ -33,11 +33,11 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
+- [aws-samples/crossplane-aws-blueprints](https://github.com/aws-samples/crossplane-aws-blueprints) - Crossplane bespoke composition blueprints for AWS resources (108 stargazers)
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark (7437 stargazers)
 - [cognitedata/txid-syncing](https://github.com/cognitedata/txid-syncing) - Demo of continuous syncing based on txids (3 stargazers)
 - [crossplane-contrib/provider-kubernetes](https://github.com/crossplane-contrib/provider-kubernetes) - Crossplane provider to provision and manage Kubernetes objects on (remote) Kubernetes clusters. (56 stargazers)
 - [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (107 stargazers)
-- [99designs/aws-ecr-gc](https://github.com/99designs/aws-ecr-gc) - Garbage collector for Amazon ECR docker registry (47 stargazers)
 
 #### 📫 How to reach me
 
