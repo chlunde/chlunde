@@ -7,7 +7,7 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Use humio as a backend for storing traces for jaeger (today)
+- [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Use humio as a backend for storing traces for jaeger (1 day ago)
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (2 weeks ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (3 weeks ago)
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (1 month ago)
@@ -34,7 +34,7 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 
 - [aws-samples/crossplane-aws-blueprints](https://github.com/aws-samples/crossplane-aws-blueprints) - Crossplane bespoke composition blueprints for AWS resources (108 stargazers)
-- [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark (7438 stargazers)
+- [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark (7439 stargazers)
 - [cognitedata/txid-syncing](https://github.com/cognitedata/txid-syncing) - Demo of continuous syncing based on txids (3 stargazers)
 - [crossplane-contrib/provider-kubernetes](https://github.com/crossplane-contrib/provider-kubernetes) - Crossplane provider to provision and manage Kubernetes objects on (remote) Kubernetes clusters. (56 stargazers)
 - [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (107 stargazers)
