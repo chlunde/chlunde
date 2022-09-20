@@ -25,17 +25,17 @@ Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [TrongChuongDao](https://github.com/TrongChuongDao)
 - [jpoley](https://github.com/jpoley)
 - [muvaf](https://github.com/muvaf)
 - [olesu](https://github.com/olesu)
 - [negz](https://github.com/negz)
-- [staticaland](https://github.com/staticaland)
 
 #### 🌟 Recent Stars
 
 - [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go (807 stargazers)
 - [aws-samples/crossplane-aws-blueprints](https://github.com/aws-samples/crossplane-aws-blueprints) - Crossplane bespoke composition blueprints for AWS resources (112 stargazers)
-- [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark (7463 stargazers)
+- [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark (7464 stargazers)
 - [cognitedata/txid-syncing](https://github.com/cognitedata/txid-syncing) - Demo of continuous syncing based on txids (3 stargazers)
 - [crossplane-contrib/provider-kubernetes](https://github.com/crossplane-contrib/provider-kubernetes) - Crossplane provider to provision and manage Kubernetes objects on (remote) Kubernetes clusters. (57 stargazers)
 
