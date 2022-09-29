@@ -34,7 +34,7 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 
 - [crossplane-contrib/x-generation](https://github.com/crossplane-contrib/x-generation) - generate compositions from crossplane provider crds (8 stargazers)
-- [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go (814 stargazers)
+- [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go (815 stargazers)
 - [aws-samples/crossplane-aws-blueprints](https://github.com/aws-samples/crossplane-aws-blueprints) - Crossplane bespoke composition blueprints for AWS resources (113 stargazers)
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark (7491 stargazers)
 - [cognitedata/txid-syncing](https://github.com/cognitedata/txid-syncing) - Demo of continuous syncing based on txids (3 stargazers)
