@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [ahmetb/gen-crd-api-reference-docs](https://github.com/ahmetb/gen-crd-api-reference-docs) - API Reference Docs generator for Kubernetes CRDs (used by Knative, Kubeflow and others) (214 stargazers)
+- [ahmetb/gen-crd-api-reference-docs](https://github.com/ahmetb/gen-crd-api-reference-docs) - API Reference Docs generator for Kubernetes CRDs (used by Knative, Kubeflow and others) (215 stargazers)
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Over 100 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (70 stargazers)
 - [crossplane-contrib/x-generation](https://github.com/crossplane-contrib/x-generation) - generate compositions from crossplane provider crds (8 stargazers)
 - [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go (816 stargazers)
