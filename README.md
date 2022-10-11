@@ -7,9 +7,9 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (today)
 - [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Use humio as a backend for storing traces for jaeger (1 week ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (1 week ago)
-- [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (1 month ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 month ago)
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (2 months ago)
 
@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [awslabs/aws-advanced-jdbc-wrapper](https://github.com/awslabs/aws-advanced-jdbc-wrapper) - The Amazon Web Services JDBC Driver has been redesigned as an advanced JDBC wrapper. This wrapper is complementary to and extends the functionality of an existing JDBC driver to help an application take advantage of the features of clustered databases such as Amazon Aurora. (30 stargazers)
+- [awslabs/aws-advanced-jdbc-wrapper](https://github.com/awslabs/aws-advanced-jdbc-wrapper) - The Amazon Web Services JDBC Driver has been redesigned as an advanced JDBC wrapper. This wrapper is complementary to and extends the functionality of an existing JDBC driver to help an application take advantage of the features of clustered databases such as Amazon Aurora. (31 stargazers)
 - [crossplane-contrib/provider-terraform](https://github.com/crossplane-contrib/provider-terraform) - A @crossplane provider for Terraform (75 stargazers)
 - [ahmetb/gen-crd-api-reference-docs](https://github.com/ahmetb/gen-crd-api-reference-docs) - API Reference Docs generator for Kubernetes CRDs (used by Knative, Kubeflow and others) (215 stargazers)
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Over 100 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (70 stargazers)
