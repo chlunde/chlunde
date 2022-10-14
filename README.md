@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [awslabs/aws-advanced-jdbc-wrapper](https://github.com/awslabs/aws-advanced-jdbc-wrapper) - The Amazon Web Services JDBC Driver has been redesigned as an advanced JDBC wrapper. This wrapper is complementary to and extends the functionality of an existing JDBC driver to help an application take advantage of the features of clustered databases such as Amazon Aurora. (34 stargazers)
+- [awslabs/aws-advanced-jdbc-wrapper](https://github.com/awslabs/aws-advanced-jdbc-wrapper) - The Amazon Web Services JDBC Driver has been redesigned as an advanced JDBC wrapper. This wrapper is complementary to and extends the functionality of an existing JDBC driver to help an application take advantage of the features of clustered databases such as Amazon Aurora. (35 stargazers)
 - [crossplane-contrib/provider-terraform](https://github.com/crossplane-contrib/provider-terraform) - A @crossplane provider for Terraform (75 stargazers)
 - [ahmetb/gen-crd-api-reference-docs](https://github.com/ahmetb/gen-crd-api-reference-docs) - API Reference Docs generator for Kubernetes CRDs (used by Knative, Kubeflow and others) (216 stargazers)
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Over 100 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (70 stargazers)
