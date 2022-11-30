@@ -11,7 +11,7 @@ Curious what I've been hacking on recently?
 - [chlunde/humio-jaeger-storage](https://github.com/chlunde/humio-jaeger-storage) - Use humio as a backend for storing traces for jaeger (3 weeks ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (3 weeks ago)
 - [chlunde/xp-state-metrics](https://github.com/chlunde/xp-state-metrics) - POC/WIP (3 weeks ago)
-- [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (3 weeks ago)
+- [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (4 weeks ago)
 
 #### 🌱 My latest projects
 
