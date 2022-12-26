@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (943 stargazers)
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (944 stargazers)
 - [muvaf/cloud-native-heroku](https://github.com/muvaf/cloud-native-heroku) - The tutorial used in the talk &#34;Build your own Heroku with Cloud Native stack&#34; in Kubecon NA 2022. (22 stargazers)
 - [upbound/provider-aws](https://github.com/upbound/provider-aws) - Official AWS Provider for Crossplane by Upbound. (28 stargazers)
 - [xlab/treeprint](https://github.com/xlab/treeprint) - Package treeprint provides a simple ASCII tree composing tool. (344 stargazers)
