@@ -25,11 +25,11 @@ Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [giko](https://github.com/giko)
 - [whirlwin](https://github.com/whirlwin)
 - [Neustradamus](https://github.com/Neustradamus)
 - [haarchri](https://github.com/haarchri)
 - [TrongChuongDao](https://github.com/TrongChuongDao)
-- [jpoley](https://github.com/jpoley)
 
 #### 🌟 Recent Stars
 
