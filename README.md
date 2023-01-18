@@ -33,11 +33,11 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
+- [davidebianchi/gswagger](https://github.com/davidebianchi/gswagger) - Generate an openapi spec dynamically based on the types used to handle request and response (16 stargazers)
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (956 stargazers)
 - [muvaf/cloud-native-heroku](https://github.com/muvaf/cloud-native-heroku) - The tutorial used in the talk &#34;Build your own Heroku with Cloud Native stack&#34; in Kubecon NA 2022. (22 stargazers)
 - [upbound/provider-aws](https://github.com/upbound/provider-aws) - Official AWS Provider for Crossplane by Upbound. (39 stargazers)
 - [xlab/treeprint](https://github.com/xlab/treeprint) - Package treeprint provides a simple ASCII tree composing tool. (346 stargazers)
-- [awslabs/aws-advanced-jdbc-wrapper](https://github.com/awslabs/aws-advanced-jdbc-wrapper) - The Amazon Web Services JDBC Driver has been redesigned as an advanced JDBC wrapper. This wrapper is complementary to and extends the functionality of an existing JDBC driver to help an application take advantage of the features of clustered databases such as Amazon Aurora. (62 stargazers)
 
 #### 📫 How to reach me
 
