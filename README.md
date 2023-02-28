@@ -34,7 +34,7 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 
 - [davidebianchi/gswagger](https://github.com/davidebianchi/gswagger) - Generate an openapi spec dynamically based on the types used to handle request and response (15 stargazers)
-- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (978 stargazers)
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (979 stargazers)
 - [muvaf/cloud-native-heroku](https://github.com/muvaf/cloud-native-heroku) - The tutorial used in the talk &#34;Build your own Heroku with Cloud Native stack&#34; in Kubecon NA 2022. (23 stargazers)
 - [upbound/provider-aws](https://github.com/upbound/provider-aws) - Official AWS Provider for Crossplane by Upbound. (44 stargazers)
 - [xlab/treeprint](https://github.com/xlab/treeprint) - Package treeprint provides a simple ASCII tree composing tool. (348 stargazers)
