@@ -7,8 +7,8 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (3 days ago)
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (4 weeks ago)
+- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (4 days ago)
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (1 month ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (1 month ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (3 months ago)
 - [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (4 months ago)
