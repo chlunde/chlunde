@@ -33,11 +33,11 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
+- [negz/xfns](https://github.com/negz/xfns) - Crossplane Composition Functions (7 stargazers)
+- [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go (2461 stargazers)
 - [crossplane-contrib/contribfest](https://github.com/crossplane-contrib/contribfest) - Crossplane Contribfest content and labs (8 stargazers)
 - [davidebianchi/gswagger](https://github.com/davidebianchi/gswagger) - Generate an openapi spec dynamically based on the types used to handle request and response (17 stargazers)
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (1035 stargazers)
-- [muvaf/cloud-native-heroku](https://github.com/muvaf/cloud-native-heroku) - The tutorial used in the talk &#34;Build your own Heroku with Cloud Native stack&#34; in Kubecon NA 2022. (26 stargazers)
-- [upbound/provider-aws](https://github.com/upbound/provider-aws) - Official AWS Provider for Crossplane by Upbound. (57 stargazers)
 
 #### 📫 How to reach me
 
