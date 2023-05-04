@@ -8,7 +8,7 @@ Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (1 week ago)
-- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (4 weeks ago)
+- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 month ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (1 month ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (1 month ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (4 months ago)
@@ -34,7 +34,7 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 
 - [negz/xfns](https://github.com/negz/xfns) - Crossplane Composition Functions (7 stargazers)
-- [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go (2474 stargazers)
+- [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go (2475 stargazers)
 - [crossplane-contrib/contribfest](https://github.com/crossplane-contrib/contribfest) - Crossplane Contribfest content and labs (8 stargazers)
 - [davidebianchi/gswagger](https://github.com/davidebianchi/gswagger) - Generate an openapi spec dynamically based on the types used to handle request and response (17 stargazers)
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (1045 stargazers)
