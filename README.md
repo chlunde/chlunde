@@ -34,7 +34,7 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 
 - [negz/xfns](https://github.com/negz/xfns) - Crossplane Composition Functions (7 stargazers)
-- [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go (2484 stargazers)
+- [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go (2485 stargazers)
 - [crossplane-contrib/contribfest](https://github.com/crossplane-contrib/contribfest) - Crossplane Contribfest content and labs (8 stargazers)
 - [davidebianchi/gswagger](https://github.com/davidebianchi/gswagger) - Generate an openapi spec dynamically based on the types used to handle request and response (17 stargazers)
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (1049 stargazers)
