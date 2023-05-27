@@ -11,7 +11,7 @@ Curious what I've been hacking on recently?
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 month ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (2 months ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (2 months ago)
-- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (4 months ago)
+- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (5 months ago)
 
 #### 🌱 My latest projects
 
