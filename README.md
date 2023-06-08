@@ -37,7 +37,7 @@ Curious what I've been hacking on recently?
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go (2523 stargazers)
 - [crossplane-contrib/contribfest](https://github.com/crossplane-contrib/contribfest) - Crossplane Contribfest content and labs (9 stargazers)
 - [davidebianchi/gswagger](https://github.com/davidebianchi/gswagger) - Generate an openapi spec dynamically based on the types used to handle request and response (16 stargazers)
-- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (1088 stargazers)
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (1089 stargazers)
 
 #### 📫 How to reach me
 
