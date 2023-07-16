@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [tohjustin/kube-lineage](https://github.com/tohjustin/kube-lineage) - A CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster. (327 stargazers)
 - [komodorio/komoplane](https://github.com/komodorio/komoplane) - 🍨 Crossplane Troubleshooting Tool by Komodor (31 stargazers)
 - [negz/xfns](https://github.com/negz/xfns) - Crossplane Composition Functions (7 stargazers)
-- [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go (2574 stargazers)
+- [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go (2575 stargazers)
 - [crossplane-contrib/contribfest](https://github.com/crossplane-contrib/contribfest) - Crossplane Contribfest content and labs (9 stargazers)
 
 #### 📫 How to reach me
