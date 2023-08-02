@@ -9,7 +9,7 @@ Curious what I've been hacking on recently?
 
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (1 month ago)
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (3 months ago)
-- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (3 months ago)
+- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (4 months ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (4 months ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (4 months ago)
 
