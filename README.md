@@ -11,7 +11,7 @@ Curious what I've been hacking on recently?
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (3 months ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (4 months ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (4 months ago)
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (4 months ago)
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (5 months ago)
 
 #### 🌱 My latest projects
 
