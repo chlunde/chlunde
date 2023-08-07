@@ -7,8 +7,8 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (today)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (1 month ago)
-- [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (3 months ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (4 months ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (5 months ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (5 months ago)
@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [hexops/autogold](https://github.com/hexops/autogold) - Automatically update your Go tests (260 stargazers)
+- [hexops/autogold](https://github.com/hexops/autogold) - Automatically update your Go tests (261 stargazers)
 - [tohjustin/kube-lineage](https://github.com/tohjustin/kube-lineage) - A CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster. (332 stargazers)
 - [komodorio/komoplane](https://github.com/komodorio/komoplane) - 🍨 Crossplane Troubleshooting Tool by Komodor (38 stargazers)
 - [negz/xfns](https://github.com/negz/xfns) - Crossplane Composition Functions (7 stargazers)
