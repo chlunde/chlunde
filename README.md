@@ -25,17 +25,17 @@ Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [bugbounted](https://github.com/bugbounted)
 - [giko](https://github.com/giko)
 - [whirlwin](https://github.com/whirlwin)
 - [Neustradamus](https://github.com/Neustradamus)
 - [haarchri](https://github.com/haarchri)
-- [TrongChuongDao](https://github.com/TrongChuongDao)
 
 #### 🌟 Recent Stars
 
 - [hexops/autogold](https://github.com/hexops/autogold) - Automatically update your Go tests (263 stargazers)
 - [tohjustin/kube-lineage](https://github.com/tohjustin/kube-lineage) - A CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster. (332 stargazers)
-- [komodorio/komoplane](https://github.com/komodorio/komoplane) - 🍨 Crossplane Troubleshooting Tool by Komodor (40 stargazers)
+- [komodorio/komoplane](https://github.com/komodorio/komoplane) - 🍨 Crossplane Troubleshooting Tool by Komodor (41 stargazers)
 - [negz/xfns](https://github.com/negz/xfns) - Crossplane Composition Functions (7 stargazers)
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go (2591 stargazers)
 
