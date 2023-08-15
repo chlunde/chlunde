@@ -8,10 +8,10 @@ Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (1 week ago)
+- [fluxcd/pkg](https://github.com/fluxcd/pkg) - Toolkit common packages (2 weeks ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (1 month ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (4 months ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (5 months ago)
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (5 months ago)
 
 #### 🌱 My latest projects
 
