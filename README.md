@@ -37,7 +37,7 @@ Curious what I've been hacking on recently?
 - [kubernetes-sigs/kube-storage-version-migrator](https://github.com/kubernetes-sigs/kube-storage-version-migrator) -  (118 stargazers)
 - [hexops/autogold](https://github.com/hexops/autogold) - Automatically update your Go tests (268 stargazers)
 - [tohjustin/kube-lineage](https://github.com/tohjustin/kube-lineage) - A CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster. (338 stargazers)
-- [komodorio/komoplane](https://github.com/komodorio/komoplane) - 🍨 Crossplane Troubleshooting Tool by Komodor (109 stargazers)
+- [komodorio/komoplane](https://github.com/komodorio/komoplane) - 🍨 Crossplane Troubleshooting Tool by Komodor (110 stargazers)
 
 #### 📫 How to reach me
 
