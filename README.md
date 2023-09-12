@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [jhannes/javaee-simplified](https://github.com/jhannes/javaee-simplified) - Java EE simplified without Spring - a demonstration project for my JavaZone talk (14 stargazers)
+- [jhannes/javaee-simplified](https://github.com/jhannes/javaee-simplified) - Java EE simplified without Spring - a demonstration project for my JavaZone talk (15 stargazers)
 - [kubernetes-sigs/kube-storage-version-migrator](https://github.com/kubernetes-sigs/kube-storage-version-migrator) -  (118 stargazers)
 - [hexops/autogold](https://github.com/hexops/autogold) - Automatically update your Go tests (267 stargazers)
 - [tohjustin/kube-lineage](https://github.com/tohjustin/kube-lineage) - A CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster. (337 stargazers)
