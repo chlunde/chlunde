@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (15454 stargazers)
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code (8507 stargazers)
 - [grafana/jfr-parser](https://github.com/grafana/jfr-parser) - Java Flight Recorder parser library written in Go. (35 stargazers)
-- [jhannes/javaee-simplified](https://github.com/jhannes/javaee-simplified) - Java EE simplified without Spring - a demonstration project for my JavaZone talk (15 stargazers)
+- [jhannes/javaee-simplified](https://github.com/jhannes/javaee-simplified) - Java EE simplified without Spring - a demonstration project for my JavaZone talk (16 stargazers)
 - [kubernetes-sigs/kube-storage-version-migrator](https://github.com/kubernetes-sigs/kube-storage-version-migrator) -  (118 stargazers)
 
 #### 📫 How to reach me
