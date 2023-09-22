@@ -34,8 +34,8 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 
 - [google/capslock](https://github.com/google/capslock) -  (171 stargazers)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (15454 stargazers)
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code (8510 stargazers)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (15453 stargazers)
+- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code (8511 stargazers)
 - [grafana/jfr-parser](https://github.com/grafana/jfr-parser) - Java Flight Recorder parser library written in Go. (35 stargazers)
 - [jhannes/javaee-simplified](https://github.com/jhannes/javaee-simplified) - Java EE simplified without Spring - a demonstration project for my JavaZone talk (16 stargazers)
 
