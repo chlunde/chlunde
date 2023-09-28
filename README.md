@@ -7,7 +7,7 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (1 week ago)
+- [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (2 weeks ago)
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (1 month ago)
 - [fluxcd/pkg](https://github.com/fluxcd/pkg) - Toolkit common packages (1 month ago)
 - [crossplane-contrib/provider-kubernetes](https://github.com/crossplane-contrib/provider-kubernetes) - Crossplane provider to provision and manage Kubernetes objects on (remote) Kubernetes clusters. (3 months ago)
@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [google/capslock](https://github.com/google/capslock) -  (317 stargazers)
+- [google/capslock](https://github.com/google/capslock) -  (319 stargazers)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (15476 stargazers)
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code (8539 stargazers)
 - [grafana/jfr-parser](https://github.com/grafana/jfr-parser) - Java Flight Recorder parser library written in Go. (35 stargazers)
