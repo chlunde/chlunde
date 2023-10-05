@@ -34,10 +34,10 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (15941 stargazers)
-- [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) - This is a workshop designed for Amazon Bedrock a foundational model service.   (298 stargazers)
+- [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) - This is a workshop designed for Amazon Bedrock a foundational model service.   (299 stargazers)
 - [crispgm/nvim-go](https://github.com/crispgm/nvim-go) - A minimal implementation of Golang development plugin for Neovim (116 stargazers)
-- [google/capslock](https://github.com/google/capslock) -  (391 stargazers)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (15495 stargazers)
+- [google/capslock](https://github.com/google/capslock) -  (392 stargazers)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (15497 stargazers)
 
 #### 📫 How to reach me
 
