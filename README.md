@@ -33,8 +33,8 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (12352 stargazers)
-- [perses/perses](https://github.com/perses/perses) - The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! (318 stargazers)
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (12353 stargazers)
+- [perses/perses](https://github.com/perses/perses) - The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! (320 stargazers)
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (16039 stargazers)
 - [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) - This is a workshop designed for Amazon Bedrock a foundational model service.   (408 stargazers)
 - [crispgm/nvim-go](https://github.com/crispgm/nvim-go) - A minimal implementation of Golang development plugin for Neovim (117 stargazers)
