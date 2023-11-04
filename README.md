@@ -7,8 +7,8 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (1 day ago)
-- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (1 week ago)
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (2 days ago)
+- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (2 weeks ago)
 - [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (1 month ago)
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (2 months ago)
 - [fluxcd/pkg](https://github.com/fluxcd/pkg) - Toolkit common packages (3 months ago)
