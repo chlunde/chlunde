@@ -8,7 +8,7 @@ Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (2 weeks ago)
-- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (3 weeks ago)
+- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (4 weeks ago)
 - [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (2 months ago)
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (3 months ago)
 - [fluxcd/pkg](https://github.com/fluxcd/pkg) - Toolkit common packages (3 months ago)
@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [wyhasany/spring-startup-to-collapse-stack](https://github.com/wyhasany/spring-startup-to-collapse-stack) - Spring Startup Actuator to Collapsed Stack converter (5 stargazers)
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (12670 stargazers)
 - [perses/perses](https://github.com/perses/perses) - The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! (395 stargazers)
-- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (16162 stargazers)
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (16163 stargazers)
 - [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) - This is a workshop designed for Amazon Bedrock a foundational model service.   (489 stargazers)
 
 #### 📫 How to reach me
