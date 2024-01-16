@@ -33,11 +33,11 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (2266 stargazers)
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (2269 stargazers)
 - [wyhasany/spring-startup-to-collapse-stack](https://github.com/wyhasany/spring-startup-to-collapse-stack) - Spring Startup Actuator to Collapsed Stack converter (5 stargazers)
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (13536 stargazers)
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (13537 stargazers)
 - [perses/perses](https://github.com/perses/perses) - The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! (444 stargazers)
-- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (16456 stargazers)
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (16457 stargazers)
 
 #### 📫 How to reach me
 
