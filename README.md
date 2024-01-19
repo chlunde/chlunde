@@ -7,7 +7,7 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-sigs/zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) - Zeitgeist: the language-agnostic dependency checker (1 week ago)
+- [kubernetes-sigs/zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) - Zeitgeist: the language-agnostic dependency checker (2 weeks ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (1 month ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (2 months ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (2 months ago)
@@ -35,9 +35,9 @@ Curious what I've been hacking on recently?
 
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (2297 stargazers)
 - [wyhasany/spring-startup-to-collapse-stack](https://github.com/wyhasany/spring-startup-to-collapse-stack) - Spring Startup Actuator to Collapsed Stack converter (5 stargazers)
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (13582 stargazers)
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (13583 stargazers)
 - [perses/perses](https://github.com/perses/perses) - The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! (444 stargazers)
-- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (16480 stargazers)
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (16481 stargazers)
 
 #### 📫 How to reach me
 
