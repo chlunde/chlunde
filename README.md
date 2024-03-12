@@ -7,11 +7,11 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (3 weeks ago)
+- [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (today)
 - [kubernetes-sigs/zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) - Zeitgeist: the language-agnostic dependency checker (3 weeks ago)
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (3 weeks ago)
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (1 month ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (3 months ago)
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,10 +34,10 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 
 - [stevendborrelli/function-conditional-patch-and-transform](https://github.com/stevendborrelli/function-conditional-patch-and-transform) - Fork of Crossplane&#39;s function-patch-and-transform to support conditionals (2 stargazers)
-- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (2323 stargazers)
+- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (2325 stargazers)
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (2587 stargazers)
 - [wyhasany/spring-startup-to-collapse-stack](https://github.com/wyhasany/spring-startup-to-collapse-stack) - Spring Startup Actuator to Collapsed Stack converter (5 stargazers)
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (14484 stargazers)
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (14486 stargazers)
 
 #### 📫 How to reach me
 
