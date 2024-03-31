@@ -10,7 +10,7 @@ Curious what I've been hacking on recently?
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (2 weeks ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (1 month ago)
 - [kubernetes-sigs/zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) - Zeitgeist: the language-agnostic dependency checker (1 month ago)
-- [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (1 month ago)
+- [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (2 months ago)
 - [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s  (3 months ago)
 
 #### 🌱 My latest projects
@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, like a Valkyrie. (3846 stargazers)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, like a Valkyrie. (3889 stargazers)
 - [tjdevries/educationalsp](https://github.com/tjdevries/educationalsp) -  (88 stargazers)
 - [stevendborrelli/function-conditional-patch-and-transform](https://github.com/stevendborrelli/function-conditional-patch-and-transform) - Fork of Crossplane&#39;s function-patch-and-transform to support conditionals (2 stargazers)
 - [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (2362 stargazers)
