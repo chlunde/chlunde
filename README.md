@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (9732 stargazers)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (9740 stargazers)
 - [tjdevries/educationalsp](https://github.com/tjdevries/educationalsp) -  (99 stargazers)
 - [stevendborrelli/function-conditional-patch-and-transform](https://github.com/stevendborrelli/function-conditional-patch-and-transform) - Fork of Crossplane&#39;s function-patch-and-transform to support conditionals (3 stargazers)
 - [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (2431 stargazers)
