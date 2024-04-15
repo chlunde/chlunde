@@ -7,8 +7,8 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 week ago)
-- [chlunde/standalone-jcmd](https://github.com/chlunde/standalone-jcmd) - statically linked jcmd which you can run in a Java container (1 week ago)
+- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (2 weeks ago)
+- [chlunde/standalone-jcmd](https://github.com/chlunde/standalone-jcmd) - statically linked jcmd which you can run in a Java container (2 weeks ago)
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (1 month ago)
 - [kubernetes-sigs/zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) - Zeitgeist: the language-agnostic dependency checker (1 month ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (1 month ago)
@@ -33,11 +33,11 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (10195 stargazers)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (10200 stargazers)
 - [tjdevries/educationalsp](https://github.com/tjdevries/educationalsp) -  (100 stargazers)
 - [stevendborrelli/function-conditional-patch-and-transform](https://github.com/stevendborrelli/function-conditional-patch-and-transform) - Fork of Crossplane&#39;s function-patch-and-transform to support conditionals (3 stargazers)
 - [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (2439 stargazers)
-- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (2733 stargazers)
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (2734 stargazers)
 
 #### 📫 How to reach me
 
