@@ -7,8 +7,8 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (5 days ago)
-- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️   (3 weeks ago)
+- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (6 days ago)
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️   (4 weeks ago)
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (1 month ago)
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane (1 month ago)
 - [chlunde/standalone-jcmd](https://github.com/chlunde/standalone-jcmd) - statically linked jcmd which you can run in a Java container (1 month ago)
