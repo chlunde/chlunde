@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (21707 stargazers)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (21708 stargazers)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (5499 stargazers)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (146 stargazers)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (22745 stargazers)
