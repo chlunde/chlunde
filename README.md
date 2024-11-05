@@ -25,15 +25,15 @@ Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [zeon-neon](https://github.com/zeon-neon)
 - [whirlwin](https://github.com/whirlwin)
 - [Neustradamus](https://github.com/Neustradamus)
 - [haarchri](https://github.com/haarchri)
-- [TrongChuongDao](https://github.com/TrongChuongDao)
 
 #### 🌟 Recent Stars
 
-- [roblaszczak/vgt](https://github.com/roblaszczak/vgt) - The missing tool for Visualising Go Tests (164 stargazers)
+- [roblaszczak/vgt](https://github.com/roblaszczak/vgt) - The missing tool for Visualising Go Tests (166 stargazers)
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (22044 stargazers)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (6169 stargazers)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (155 stargazers)
