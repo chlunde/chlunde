@@ -25,19 +25,19 @@ Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [DarmorGamz](https://github.com/DarmorGamz)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [whirlwin](https://github.com/whirlwin)
 - [Neustradamus](https://github.com/Neustradamus)
 - [haarchri](https://github.com/haarchri)
-- [TrongChuongDao](https://github.com/TrongChuongDao)
 
 #### 🌟 Recent Stars
 
 - [roblaszczak/vgt](https://github.com/roblaszczak/vgt) - The missing tool for Visualising Go Tests (261 stargazers)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (22723 stargazers)
-- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (6415 stargazers)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (22725 stargazers)
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (6416 stargazers)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (159 stargazers)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (23327 stargazers)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (23328 stargazers)
 
 #### 📫 How to reach me
 
