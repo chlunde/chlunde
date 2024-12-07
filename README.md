@@ -10,7 +10,7 @@ Curious what I've been hacking on recently?
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (1 week ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (2 months ago)
 - [chlunde/crd-lab](https://github.com/chlunde/crd-lab) -  (3 months ago)
-- [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (5 months ago)
+- [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (6 months ago)
 - [crossplane-contrib/provider-upjet-aws](https://github.com/crossplane-contrib/provider-upjet-aws) - AWS Provider for Crossplane. (6 months ago)
 
 #### 🌱 My latest projects
@@ -34,7 +34,7 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 
 - [roblaszczak/vgt](https://github.com/roblaszczak/vgt) - The missing tool for Visualising Go Tests (278 stargazers)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (23182 stargazers)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (23184 stargazers)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (6586 stargazers)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (167 stargazers)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (23501 stargazers)
