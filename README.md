@@ -34,8 +34,8 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 
 - [roblaszczak/vgt](https://github.com/roblaszczak/vgt) - The missing tool for Visualising Go Tests (289 stargazers)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (23402 stargazers)
-- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (6844 stargazers)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (23403 stargazers)
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (6846 stargazers)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (175 stargazers)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (23661 stargazers)
 
