@@ -25,11 +25,11 @@ Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [xxspell](https://github.com/xxspell)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [zeon-neon](https://github.com/zeon-neon)
 - [whirlwin](https://github.com/whirlwin)
 - [Neustradamus](https://github.com/Neustradamus)
-- [haarchri](https://github.com/haarchri)
 
 #### 🌟 Recent Stars
 
@@ -37,7 +37,7 @@ Curious what I've been hacking on recently?
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (23498 stargazers)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (7069 stargazers)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (179 stargazers)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (23747 stargazers)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (23748 stargazers)
 
 #### 📫 How to reach me
 
