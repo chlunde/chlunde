@@ -9,7 +9,7 @@ Curious what I've been hacking on recently?
 
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (1 month ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (2 months ago)
-- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (4 months ago)
+- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (5 months ago)
 - [chlunde/crd-lab](https://github.com/chlunde/crd-lab) -  (5 months ago)
 - [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (8 months ago)
 
