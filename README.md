@@ -37,7 +37,7 @@ Curious what I've been hacking on recently?
 - [florianl/go-tc](https://github.com/florianl/go-tc) - traffic control in pure go - it allows to read and alter queues, filters and classes (474 stargazers)
 - [roblaszczak/vgt](https://github.com/roblaszczak/vgt) - The missing tool for Visualising Go Tests (310 stargazers)
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (24123 stargazers)
-- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (7538 stargazers)
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (7539 stargazers)
 
 #### 📫 How to reach me
 
