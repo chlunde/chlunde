@@ -7,19 +7,19 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [chlunde/traceview](https://github.com/chlunde/traceview) -  (today)
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (1 month ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (3 months ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (5 months ago)
 - [chlunde/crd-lab](https://github.com/chlunde/crd-lab) -  (6 months ago)
-- [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (9 months ago)
 
 #### 🌱 My latest projects
 
+- [chlunde/traceview](https://github.com/chlunde/traceview) - 
 - [chlunde/crd-lab](https://github.com/chlunde/crd-lab) - 
 - [chlunde/xp-state-metrics](https://github.com/chlunde/xp-state-metrics) - POC/WIP
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) - 
 - [chlunde/3dp](https://github.com/chlunde/3dp) - 
-- [chlunde/home-infra](https://github.com/chlunde/home-infra) - flux repo for my home infrastructure running on k3s 
 
 
 
@@ -37,7 +37,7 @@ Curious what I've been hacking on recently?
 - [upbound/example-project-aws](https://github.com/upbound/example-project-aws) - Example control plane project for AWS (1 stargazers)
 - [florianl/go-tc](https://github.com/florianl/go-tc) - traffic control in pure go - it allows to read and alter queues, filters and classes (476 stargazers)
 - [roblaszczak/vgt](https://github.com/roblaszczak/vgt) - The missing tool for Visualising Go Tests (311 stargazers)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (24208 stargazers)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (24209 stargazers)
 
 #### 📫 How to reach me
 
