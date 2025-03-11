@@ -33,7 +33,7 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John&#39;s book &#34;A Philosophy of Software Design&#34; and Bob&#39;s book &#34;Clean Code&#34;. (665 stargazers)
+- [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John&#39;s book &#34;A Philosophy of Software Design&#34; and Bob&#39;s book &#34;Clean Code&#34;. (666 stargazers)
 - [upbound/example-project-aws](https://github.com/upbound/example-project-aws) - Example control plane project for AWS (1 stargazers)
 - [florianl/go-tc](https://github.com/florianl/go-tc) - traffic control in pure go - it allows to read and alter queues, filters and classes (476 stargazers)
 - [roblaszczak/vgt](https://github.com/roblaszczak/vgt) - The missing tool for Visualising Go Tests (311 stargazers)
