@@ -37,7 +37,7 @@ Curious what I've been hacking on recently?
 - [upbound/example-project-aws](https://github.com/upbound/example-project-aws) - Example control plane project for AWS (1 stargazers)
 - [florianl/go-tc](https://github.com/florianl/go-tc) - traffic control in pure go - it allows to read and alter queues, filters and classes (477 stargazers)
 - [roblaszczak/vgt](https://github.com/roblaszczak/vgt) - The missing tool for Visualising Go Tests (311 stargazers)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (24252 stargazers)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (24254 stargazers)
 
 #### 📫 How to reach me
 
