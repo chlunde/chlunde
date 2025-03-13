@@ -7,7 +7,7 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [chlunde/traceview](https://github.com/chlunde/traceview) -  (5 days ago)
+- [chlunde/traceview](https://github.com/chlunde/traceview) -  (6 days ago)
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (2 months ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (3 months ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (5 months ago)
@@ -37,7 +37,7 @@ Curious what I've been hacking on recently?
 - [upbound/example-project-aws](https://github.com/upbound/example-project-aws) - Example control plane project for AWS (1 stargazers)
 - [florianl/go-tc](https://github.com/florianl/go-tc) - traffic control in pure go - it allows to read and alter queues, filters and classes (477 stargazers)
 - [roblaszczak/vgt](https://github.com/roblaszczak/vgt) - The missing tool for Visualising Go Tests (311 stargazers)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (24248 stargazers)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (24249 stargazers)
 
 #### 📫 How to reach me
 
