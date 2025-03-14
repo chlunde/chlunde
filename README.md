@@ -7,8 +7,8 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (today)
 - [chlunde/traceview](https://github.com/chlunde/traceview) -  (1 week ago)
-- [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (2 months ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (3 months ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (5 months ago)
 - [chlunde/crd-lab](https://github.com/chlunde/crd-lab) -  (6 months ago)
