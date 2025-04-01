@@ -11,7 +11,7 @@ Curious what I've been hacking on recently?
 - [chlunde/traceview](https://github.com/chlunde/traceview) -  (3 weeks ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (4 months ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (6 months ago)
-- [chlunde/crd-lab](https://github.com/chlunde/crd-lab) -  (6 months ago)
+- [chlunde/crd-lab](https://github.com/chlunde/crd-lab) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -33,11 +33,11 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John&#39;s book &#34;A Philosophy of Software Design&#34; and Bob&#39;s book &#34;Clean Code&#34;. (738 stargazers)
+- [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John&#39;s book &#34;A Philosophy of Software Design&#34; and Bob&#39;s book &#34;Clean Code&#34;. (740 stargazers)
 - [upbound/example-project-aws](https://github.com/upbound/example-project-aws) - Example control plane project for AWS (2 stargazers)
 - [florianl/go-tc](https://github.com/florianl/go-tc) - traffic control in pure go - it allows to read and alter queues, filters and classes (479 stargazers)
 - [roblaszczak/vgt](https://github.com/roblaszczak/vgt) - The missing tool for Visualising Go Tests (313 stargazers)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (24658 stargazers)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (24659 stargazers)
 
 #### 📫 How to reach me
 
