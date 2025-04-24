@@ -7,10 +7,10 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (1 day ago)
-- [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (1 day ago)
+- [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (2 days ago)
+- [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (2 days ago)
 - [chlunde/traceview](https://github.com/chlunde/traceview) -  (1 month ago)
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (4 months ago)
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (5 months ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (7 months ago)
 
 #### 🌱 My latest projects
