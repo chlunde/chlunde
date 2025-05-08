@@ -33,10 +33,10 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [stacklok/frizbee](https://github.com/stacklok/frizbee) - Throw a tag at it and it comes back with a checksum. (122 stargazers)
+- [stacklok/frizbee](https://github.com/stacklok/frizbee) - Throw a tag at it and it comes back with a checksum. (124 stargazers)
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace (10089 stargazers)
 - [target/goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert (2413 stargazers)
-- [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John&#39;s book &#34;A Philosophy of Software Design&#34; and Bob&#39;s book &#34;Clean Code&#34;. (896 stargazers)
+- [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John&#39;s book &#34;A Philosophy of Software Design&#34; and Bob&#39;s book &#34;Clean Code&#34;. (897 stargazers)
 - [upbound/example-project-aws](https://github.com/upbound/example-project-aws) - Example control plane project for AWS (2 stargazers)
 
 #### 📫 How to reach me
