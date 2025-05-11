@@ -25,11 +25,11 @@ Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [identities](https://github.com/identities)
 - [IamTheSadik](https://github.com/IamTheSadik)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [zeon-neon](https://github.com/zeon-neon)
 - [whirlwin](https://github.com/whirlwin)
-- [Neustradamus](https://github.com/Neustradamus)
 
 #### 🌟 Recent Stars
 
