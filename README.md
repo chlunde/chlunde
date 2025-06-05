@@ -11,7 +11,7 @@ Curious what I've been hacking on recently?
 - [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (3 weeks ago)
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (1 month ago)
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider (1 month ago)
-- [chlunde/traceview](https://github.com/chlunde/traceview) -  (2 months ago)
+- [chlunde/traceview](https://github.com/chlunde/traceview) -  (3 months ago)
 
 #### 🌱 My latest projects
 
