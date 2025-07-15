@@ -33,10 +33,10 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (18189 stargazers)
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (18190 stargazers)
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (942 stargazers)
 - [nikolaydubina/treemap](https://github.com/nikolaydubina/treemap) - 🍬 Pretty Treemaps (165 stargazers)
-- [EarthBuild/earthbuild](https://github.com/EarthBuild/earthbuild) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby. (70 stargazers)
+- [EarthBuild/earthbuild](https://github.com/EarthBuild/earthbuild) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby. (71 stargazers)
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows (3210 stargazers)
 
 #### 📫 How to reach me
