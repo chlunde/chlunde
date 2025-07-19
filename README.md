@@ -25,11 +25,11 @@ Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [oluiscabral](https://github.com/oluiscabral)
 - [helallao](https://github.com/helallao)
 - [identities](https://github.com/identities)
 - [IamTheSadik](https://github.com/IamTheSadik)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [zeon-neon](https://github.com/zeon-neon)
 
 #### 🌟 Recent Stars
 
