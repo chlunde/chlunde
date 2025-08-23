@@ -34,9 +34,9 @@ Curious what I've been hacking on recently?
 #### 🌟 Recent Stars
 
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (1565 stargazers)
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (21545 stargazers)
-- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (19357 stargazers)
-- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (1730 stargazers)
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (21548 stargazers)
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (19358 stargazers)
+- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (1731 stargazers)
 - [nikolaydubina/treemap](https://github.com/nikolaydubina/treemap) - 🍬 Pretty Treemaps (167 stargazers)
 
 #### 📫 How to reach me
