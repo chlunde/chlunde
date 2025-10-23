@@ -33,11 +33,11 @@ Curious what I've been hacking on recently?
 
 #### 🌟 Recent Stars
 
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (41050 stargazers)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (41082 stargazers)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (1601 stargazers)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (23831 stargazers)
-- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (24917 stargazers)
-- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (2559 stargazers)
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (24930 stargazers)
+- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (2560 stargazers)
 
 #### 📫 How to reach me
 
