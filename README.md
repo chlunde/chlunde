@@ -25,17 +25,17 @@ Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [faizajamshaid69](https://github.com/faizajamshaid69)
 - [identities](https://github.com/identities)
 - [IamTheSadik](https://github.com/IamTheSadik)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [zeon-neon](https://github.com/zeon-neon)
 
 #### 🌟 Recent Stars
 
-- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (3354 stargazers)
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (3356 stargazers)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (6603 stargazers)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (53751 stargazers)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (53752 stargazers)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (1621 stargazers)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (24956 stargazers)
 
