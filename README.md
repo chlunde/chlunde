@@ -35,9 +35,9 @@ Curious what I've been hacking on recently?
 
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (3357 stargazers)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (6603 stargazers)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (53855 stargazers)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (53865 stargazers)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (1621 stargazers)
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (24971 stargazers)
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (24973 stargazers)
 
 #### 📫 How to reach me
 
