@@ -8,7 +8,7 @@ Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (2 weeks ago)
-- [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (3 weeks ago)
+- [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (4 weeks ago)
 - [chlunde/standalone-jcmd](https://github.com/chlunde/standalone-jcmd) - statically linked jcmd which you can run in a Java container (2 months ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (6 months ago)
 - [crossplane/crossplane-runtime](https://github.com/crossplane/crossplane-runtime) - A set of libraries for writing Crossplane controllers. (7 months ago)
@@ -35,7 +35,7 @@ Curious what I've been hacking on recently?
 
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (3369 stargazers)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (6608 stargazers)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (56146 stargazers)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (56150 stargazers)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (1635 stargazers)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (25240 stargazers)
 
