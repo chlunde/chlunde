@@ -8,7 +8,7 @@ Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (1 month ago)
-- [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (1 month ago)
+- [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (2 months ago)
 - [chlunde/standalone-jcmd](https://github.com/chlunde/standalone-jcmd) - statically linked jcmd which you can run in a Java container (3 months ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (7 months ago)
 - [crossplane/crossplane-runtime](https://github.com/crossplane/crossplane-runtime) - A set of libraries for writing Crossplane controllers. (8 months ago)
@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [liebharc/homr](https://github.com/liebharc/homr) - homr is an Optical Music Recognition (OMR) software designed to transform camera pictures of sheet music into machine-readable MusicXML format. (116 stargazers)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (3408 stargazers)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (6630 stargazers)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (63383 stargazers)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (63388 stargazers)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (1660 stargazers)
 
 #### 📫 How to reach me
