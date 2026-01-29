@@ -25,18 +25,18 @@ Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [evenh](https://github.com/evenh)
+- [dewhush](https://github.com/dewhush)
 - [faizajamshaid69](https://github.com/faizajamshaid69)
 - [identities](https://github.com/identities)
 - [IamTheSadik](https://github.com/IamTheSadik)
-- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [zeon-neon](https://github.com/zeon-neon)
 
 #### 🌟 Recent Stars
 
 - [liebharc/homr](https://github.com/liebharc/homr) - homr is an Optical Music Recognition (OMR) software designed to transform camera pictures of sheet music into machine-readable MusicXML format. (119 stargazers)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (3428 stargazers)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (6634 stargazers)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (66095 stargazers)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (66114 stargazers)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (1685 stargazers)
 
 #### 📫 How to reach me
