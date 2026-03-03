@@ -7,7 +7,7 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (6 days ago)
+- [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (today)
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (3 months ago)
 - [chlunde/standalone-jcmd](https://github.com/chlunde/standalone-jcmd) - statically linked jcmd which you can run in a Java container (5 months ago)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (8 months ago)
@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [ValkDB/postgresparser](https://github.com/ValkDB/postgresparser) - ANTLR-based PostgreSQL query parser for Go. Extracts tables, columns, joins, CTEs, parameters, DDL actions, and full column-usage metadata    from SQL into a structured IR. (195 stargazers)
 - [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required (863 stargazers)
 - [liebharc/homr](https://github.com/liebharc/homr) - homr is an Optical Music Recognition (OMR) software designed to transform camera pictures of sheet music into machine-readable MusicXML format. (142 stargazers)
-- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (3516 stargazers)
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (3517 stargazers)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (6656 stargazers)
 
 #### 📫 How to reach me
