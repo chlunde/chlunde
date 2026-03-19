@@ -7,9 +7,9 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (today)
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (3 days ago)
 - [crossplane/provider-template](https://github.com/crossplane/provider-template) - A template for building @crossplane providers. (2 weeks ago)
-- [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (2 weeks ago)
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (3 months ago)
 - [chlunde/standalone-jcmd](https://github.com/chlunde/standalone-jcmd) - statically linked jcmd which you can run in a Java container (5 months ago)
 
