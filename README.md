@@ -7,9 +7,9 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (2 days ago)
-- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (3 days ago)
-- [kubernetes-sigs/zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) - Zeitgeist: the language-agnostic dependency checker (1 month ago)
+- [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (3 days ago)
+- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (4 days ago)
+- [kubernetes-sigs/zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) - Zeitgeist: the language-agnostic dependency checker (2 months ago)
 - [crossplane/provider-template](https://github.com/crossplane/provider-template) - A template for building @crossplane providers. (2 months ago)
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (5 months ago)
 
@@ -36,7 +36,7 @@ Curious what I've been hacking on recently?
 - [trailofbits/gosentry](https://github.com/trailofbits/gosentry) - Security-oriented Go toolchain, focused on state-of-the-art fuzzing capabilities. (82 stargazers)
 - [ValkDB/postgresparser](https://github.com/ValkDB/postgresparser) - ANTLR-based PostgreSQL query parser for Go. Extracts tables, columns, joins, CTEs, parameters, DDL actions, and full column-usage metadata    from SQL into a structured IR. (246 stargazers)
 - [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required with CLI, TUI, MCP and HTTP support. (930 stargazers)
-- [liebharc/homr](https://github.com/liebharc/homr) - homr is an Optical Music Recognition (OMR) software designed to transform camera pictures of sheet music into machine-readable MusicXML format. (241 stargazers)
+- [liebharc/homr](https://github.com/liebharc/homr) - homr is an Optical Music Recognition (OMR) software designed to transform camera pictures of sheet music into machine-readable MusicXML format. (242 stargazers)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (3640 stargazers)
 
 #### 📫 How to reach me
