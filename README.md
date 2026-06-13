@@ -8,7 +8,7 @@ Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane (4 weeks ago)
-- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (4 weeks ago)
+- [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 month ago)
 - [kubernetes-sigs/zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) - Zeitgeist: the language-agnostic dependency checker (2 months ago)
 - [crossplane/provider-template](https://github.com/crossplane/provider-template) - A template for building @crossplane providers. (3 months ago)
 - [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (6 months ago)
