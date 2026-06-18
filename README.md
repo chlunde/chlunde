@@ -11,7 +11,7 @@ Curious what I've been hacking on recently?
 - [chlunde/dotfiles](https://github.com/chlunde/dotfiles) - My dotfiles (1 month ago)
 - [kubernetes-sigs/zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) - Zeitgeist: the language-agnostic dependency checker (3 months ago)
 - [crossplane/provider-template](https://github.com/crossplane/provider-template) - A template for building @crossplane providers. (3 months ago)
-- [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (6 months ago)
+- [chlunde/status-bar](https://github.com/chlunde/status-bar) -  (7 months ago)
 
 #### 🌱 My latest projects
 
